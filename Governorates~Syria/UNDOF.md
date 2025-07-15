@@ -40,11 +40,18 @@ markerFolder: ./UNDOF/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF|UNDOF]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.public|UNDOF.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.internal|UNDOF.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.protect|UNDOF.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.private|UNDOF.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.personal|UNDOF.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/UNDOF.secret|UNDOF.secret]] 
+
+### #is_/same_as :: [UNDOF](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/UNDOF.md) 
+
+### #is_/same_as :: [UNDOF.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/UNDOF.public.md) 
+
+### #is_/same_as :: [UNDOF.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/UNDOF.internal.md) 
+
+### #is_/same_as :: [UNDOF.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/UNDOF.protect.md) 
+
+### #is_/same_as :: [UNDOF.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/UNDOF.private.md) 
+
+### #is_/same_as :: [UNDOF.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/UNDOF.personal.md) 
+
+### #is_/same_as :: [UNDOF.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/UNDOF.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Homs_(Hims)/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims)|Homs_(Hims)]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).public|Homs_(Hims).public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).internal|Homs_(Hims).internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).protect|Homs_(Hims).protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).private|Homs_(Hims).private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).personal|Homs_(Hims).personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Homs_(Hims).secret|Homs_(Hims).secret]] 
+
+### #is_/same_as :: [Homs](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs.md) 
+
+### #is_/same_as :: [Homs.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs.public.md) 
+
+### #is_/same_as :: [Homs.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs.internal.md) 
+
+### #is_/same_as :: [Homs.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs.protect.md) 
+
+### #is_/same_as :: [Homs.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs.private.md) 
+
+### #is_/same_as :: [Homs.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs.personal.md) 
+
+### #is_/same_as :: [Homs.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs.secret.md)
 

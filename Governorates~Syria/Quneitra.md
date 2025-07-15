@@ -40,11 +40,18 @@ markerFolder: ./Quneitra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra|Quneitra]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.public|Quneitra.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.internal|Quneitra.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.protect|Quneitra.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.private|Quneitra.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.personal|Quneitra.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Quneitra.secret|Quneitra.secret]] 
+
+### #is_/same_as :: [Quneitra](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Quneitra.md) 
+
+### #is_/same_as :: [Quneitra.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Quneitra.public.md) 
+
+### #is_/same_as :: [Quneitra.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Quneitra.internal.md) 
+
+### #is_/same_as :: [Quneitra.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Quneitra.protect.md) 
+
+### #is_/same_as :: [Quneitra.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Quneitra.private.md) 
+
+### #is_/same_as :: [Quneitra.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Quneitra.personal.md) 
+
+### #is_/same_as :: [Quneitra.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Quneitra.secret.md)
 

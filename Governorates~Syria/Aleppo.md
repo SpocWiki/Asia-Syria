@@ -40,11 +40,18 @@ markerFolder: ./Aleppo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo|Aleppo]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.public|Aleppo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.internal|Aleppo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.protect|Aleppo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.private|Aleppo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.personal|Aleppo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Aleppo.secret|Aleppo.secret]] 
+
+### #is_/same_as :: [Aleppo](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo.md) 
+
+### #is_/same_as :: [Aleppo.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo.public.md) 
+
+### #is_/same_as :: [Aleppo.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo.internal.md) 
+
+### #is_/same_as :: [Aleppo.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo.protect.md) 
+
+### #is_/same_as :: [Aleppo.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo.private.md) 
+
+### #is_/same_as :: [Aleppo.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo.personal.md) 
+
+### #is_/same_as :: [Aleppo.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo.secret.md)
 

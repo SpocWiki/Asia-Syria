@@ -40,11 +40,18 @@ markerFolder: ./Dar`a/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a|Dar`a]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.public|Dar`a.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.internal|Dar`a.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.protect|Dar`a.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.private|Dar`a.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.personal|Dar`a.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Dar`a.secret|Dar`a.secret]] 
+
+### #is_/same_as :: [Daraa](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Daraa.md) 
+
+### #is_/same_as :: [Daraa.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Daraa.public.md) 
+
+### #is_/same_as :: [Daraa.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Daraa.internal.md) 
+
+### #is_/same_as :: [Daraa.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Daraa.protect.md) 
+
+### #is_/same_as :: [Daraa.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Daraa.private.md) 
+
+### #is_/same_as :: [Daraa.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Daraa.personal.md) 
+
+### #is_/same_as :: [Daraa.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Daraa.secret.md)
 

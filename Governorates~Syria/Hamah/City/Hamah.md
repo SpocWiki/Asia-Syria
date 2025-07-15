@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/City/Hamah|Hamah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/City/Hamah.public|Hamah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/City/Hamah.internal|Hamah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/City/Hamah.protect|Hamah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/City/Hamah.private|Hamah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/City/Hamah.personal|Hamah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/City/Hamah.secret|Hamah.secret]] 
+
+### #is_/same_as :: [Hamah](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah/City/Hamah.md) 
+
+### #is_/same_as :: [Hamah.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah/City/Hamah.public.md) 
+
+### #is_/same_as :: [Hamah.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah/City/Hamah.internal.md) 
+
+### #is_/same_as :: [Hamah.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah/City/Hamah.protect.md) 
+
+### #is_/same_as :: [Hamah.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah/City/Hamah.private.md) 
+
+### #is_/same_as :: [Hamah.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah/City/Hamah.personal.md) 
+
+### #is_/same_as :: [Hamah.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah/City/Hamah.secret.md)
+

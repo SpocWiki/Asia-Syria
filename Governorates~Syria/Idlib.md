@@ -40,11 +40,18 @@ markerFolder: ./Idlib/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib|Idlib]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.public|Idlib.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.internal|Idlib.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.protect|Idlib.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.private|Idlib.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.personal|Idlib.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Idlib.secret|Idlib.secret]] 
+
+### #is_/same_as :: [Idlib](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.md) 
+
+### #is_/same_as :: [Idlib.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.public.md) 
+
+### #is_/same_as :: [Idlib.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.internal.md) 
+
+### #is_/same_as :: [Idlib.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.protect.md) 
+
+### #is_/same_as :: [Idlib.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.private.md) 
+
+### #is_/same_as :: [Idlib.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.personal.md) 
+
+### #is_/same_as :: [Idlib.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.secret.md)
 

@@ -134,10 +134,4 @@ Capital :: [[Syria/Counties/Damascus/City/Damascus=Damaskus]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Syria|Syria]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~West/Syria.internal|Syria.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~West/Syria.protect|Syria.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~West/Syria.private|Syria.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~West/Syria.personal|Syria.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~West/Syria.secret|Syria.secret]] 
+

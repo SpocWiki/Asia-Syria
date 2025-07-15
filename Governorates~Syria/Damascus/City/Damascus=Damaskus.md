@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/City/Damascus=Damaskus|Damascus=Damaskus]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/City/Damascus=Damaskus.public|Damascus=Damaskus.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/City/Damascus=Damaskus.internal|Damascus=Damaskus.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/City/Damascus=Damaskus.protect|Damascus=Damaskus.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/City/Damascus=Damaskus.private|Damascus=Damaskus.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/City/Damascus=Damaskus.personal|Damascus=Damaskus.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/City/Damascus=Damaskus.secret|Damascus=Damaskus.secret]] 
+
+### #is_/same_as :: [Damascus=Damaskus](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus/City/Damascus=Damaskus.md) 
+
+### #is_/same_as :: [Damascus=Damaskus.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus/City/Damascus=Damaskus.public.md) 
+
+### #is_/same_as :: [Damascus=Damaskus.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus/City/Damascus=Damaskus.internal.md) 
+
+### #is_/same_as :: [Damascus=Damaskus.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus/City/Damascus=Damaskus.protect.md) 
+
+### #is_/same_as :: [Damascus=Damaskus.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus/City/Damascus=Damaskus.private.md) 
+
+### #is_/same_as :: [Damascus=Damaskus.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus/City/Damascus=Damaskus.personal.md) 
+
+### #is_/same_as :: [Damascus=Damaskus.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus/City/Damascus=Damaskus.secret.md)
+

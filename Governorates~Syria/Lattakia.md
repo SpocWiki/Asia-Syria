@@ -40,11 +40,18 @@ markerFolder: ./Lattakia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia|Lattakia]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.public|Lattakia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.internal|Lattakia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.protect|Lattakia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.private|Lattakia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.personal|Lattakia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Lattakia.secret|Lattakia.secret]] 
+
+### #is_/same_as :: [Lattakia](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Lattakia.md) 
+
+### #is_/same_as :: [Lattakia.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Lattakia.public.md) 
+
+### #is_/same_as :: [Lattakia.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Lattakia.internal.md) 
+
+### #is_/same_as :: [Lattakia.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Lattakia.protect.md) 
+
+### #is_/same_as :: [Lattakia.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Lattakia.private.md) 
+
+### #is_/same_as :: [Lattakia.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Lattakia.personal.md) 
+
+### #is_/same_as :: [Lattakia.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Lattakia.secret.md)
 

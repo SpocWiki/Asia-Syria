@@ -40,11 +40,18 @@ markerFolder: ./Ar_Raqqah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah|Ar_Raqqah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.public|Ar_Raqqah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.internal|Ar_Raqqah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.protect|Ar_Raqqah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.private|Ar_Raqqah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.personal|Ar_Raqqah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Ar_Raqqah.secret|Ar_Raqqah.secret]] 
+
+### #is_/same_as :: [Raqqah](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Raqqah.md) 
+
+### #is_/same_as :: [Raqqah.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Raqqah.public.md) 
+
+### #is_/same_as :: [Raqqah.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Raqqah.internal.md) 
+
+### #is_/same_as :: [Raqqah.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Raqqah.protect.md) 
+
+### #is_/same_as :: [Raqqah.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Raqqah.private.md) 
+
+### #is_/same_as :: [Raqqah.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Raqqah.personal.md) 
+
+### #is_/same_as :: [Raqqah.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Raqqah.secret.md)
 

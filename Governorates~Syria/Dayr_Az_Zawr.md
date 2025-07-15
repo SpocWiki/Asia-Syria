@@ -40,11 +40,18 @@ markerFolder: ./Dayr_Az_Zawr/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr|Dayr_Az_Zawr]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.public|Dayr_Az_Zawr.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.internal|Dayr_Az_Zawr.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.protect|Dayr_Az_Zawr.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.private|Dayr_Az_Zawr.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.personal|Dayr_Az_Zawr.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Syria/Counties/Dayr_Az_Zawr.secret|Dayr_Az_Zawr.secret]] 
+
+### #is_/same_as :: [Dayr_Az_Zawr](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Dayr_Az_Zawr.md) 
+
+### #is_/same_as :: [Dayr_Az_Zawr.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Dayr_Az_Zawr.public.md) 
+
+### #is_/same_as :: [Dayr_Az_Zawr.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Dayr_Az_Zawr.internal.md) 
+
+### #is_/same_as :: [Dayr_Az_Zawr.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Dayr_Az_Zawr.protect.md) 
+
+### #is_/same_as :: [Dayr_Az_Zawr.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Dayr_Az_Zawr.private.md) 
+
+### #is_/same_as :: [Dayr_Az_Zawr.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Dayr_Az_Zawr.personal.md) 
+
+### #is_/same_as :: [Dayr_Az_Zawr.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Dayr_Az_Zawr.secret.md)
 
