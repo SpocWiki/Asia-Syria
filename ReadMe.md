@@ -1,43 +1,44 @@
 ---
 location:
-- 34.335
-- 36.625
+  - 34.335
+  - 36.625
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27026
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Syria
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Syria
-- Syrian Arab Republic
-- República Árabe Siria
-- République arabe syrienne
-- الجمهورية العربية السورية
-- 阿拉伯叙利亚共和国
-- Сирийская Арабская Республика
-- the Syrian Arab Republic
-- la República Árabe Siria
-- República Árabe Siria (la)
+  - Syria
+  - Syrian Arab Republic
+  - República Árabe Siria
+  - République arabe syrienne
+  - الجمهورية العربية السورية
+  - 阿拉伯叙利亚共和国
+  - Сирийская Арабская Республика
+  - the Syrian Arab Republic
+  - la República Árabe Siria
+  - República Árabe Siria (la)
 Languages:
-- ar-SY
-- ku
-- hy
-- arc
-- fr
-- en
+  - ar-SY
+  - ku
+  - hy
+  - arc
+  - fr
+  - en
 ---
 
 
