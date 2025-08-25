@@ -27,7 +27,11 @@ expiryDate:
 has_id_wikidata: Q3766
 ---
 
-# Damascus
+# [[Damascus]]
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Damascus,3766|WD~Damascus,3766]] 
+
+## #has_/map  
 
 ```leaflet
 id: Damascus
@@ -40,11 +44,29 @@ markerFolder: ./Damascus/
 
 ## #has_/text_of_/abstract
 
-> **Damascus** ( də-MAS-kəs, UK also  də-MAH-skəs; Arabic: دِمَشْق, romanized: Dimašq) is the largest city in Syria, the oldest capital in the world and, according to some, the fourth holiest city in Islam.  Known colloquially in Syria as aš-Šām (الشَّام) and dubbed, poetically, the "City of Jasmine" (مَدِيْنَةُ الْيَاسْمِينِ Madīnat al-Yāsmīn), Damascus is a major cultural center of the Levant and the Arab world.
+> **Damascus** ( də-MAS-kəs, UK also  də-MAH-skəs; Arabic: دِمَشْق, romanized: Dimašq) 
+> is the largest city in Syria, the oldest capital in the world 
+> and, according to some, the fourth holiest city in Islam.  
+> 
+> Known colloquially in Syria as aš-Šām (الشَّام) 
+> and dubbed, poetically, the "City of Jasmine" (مَدِيْنَةُ الْيَاسْمِينِ Madīnat al-Yāsmīn), 
+> Damascus is a major cultural center of the Levant and the Arab world.
 >
-> Situated in southwestern Syria, Damascus is the center of a large metropolitan area. Nestled among the eastern foothills of the Anti-Lebanon mountain range 80 kilometres (50 mi) inland from the eastern shore of the Mediterranean on a plateau 680 metres (2,230 ft) above sea level, Damascus experiences an arid climate because of the rain shadow effect. The Barada River flows through Damascus.
+> Situated in southwestern Syria, Damascus is the center of a large metropolitan area. 
+> Nestled among the eastern foothills of the Anti-Lebanon mountain range 
+> 80 kilometres (50 mi) inland from the eastern shore of the Mediterranean 
+> on a plateau 680 metres (2,230 ft) above sea level, 
+> Damascus experiences an arid climate because of the rain shadow effect. 
+> 
+> The Barada River flows through Damascus.
 >
-> Damascus is one of the oldest continuously inhabited cities in the world. First settled in the 3rd millennium BC, it was chosen as the capital of the Umayyad Caliphate from 661 to 750. After the victory of the Abbasid dynasty, the seat of Islamic power was moved to Baghdad. Damascus saw its importance decline throughout the Abbasid era, only to regain significant importance in the Ayyubid and Mamluk periods. 
+> Damascus is one of the oldest continuously inhabited cities in the world. 
+> First settled in the 3rd millennium BC, 
+> it was chosen as the capital of the Umayyad Caliphate from 661 to 750. 
+> 
+> After the victory of the Abbasid dynasty, the seat of Islamic power was moved to Baghdad. 
+> Damascus saw its importance decline throughout the Abbasid era, 
+> only to regain significant importance in the Ayyubid and Mamluk periods. 
 >
 > Today, it is the seat of the central government of Syria. As of September 2019, eight years into the Syrian civil war, Damascus was named the least livable city out of 140 global cities in the Global Liveability Ranking. As of June 2023, it was the least livable out of 173 global cities in the same Global Liveability Ranking. In 2017, two new development projects have been launched in Damascus to build new residential districts, Marota City and Basillia City to symbolize post-war reconstruction.
 >
