@@ -1,0 +1,73 @@
+---
+aliases:
+  - Krak des Chevaliers
+has_id_wikidata: Q177549
+main_building_contractor:
+  - "[[_Standards/WikiData/WD~Knights_Hospitaller,187549]]"
+  - "[[_Standards/WikiData/WD~Shibl_al_Dawla_Nasr,7496060]]"
+owned_by: "[[_Standards/WikiData/WD~Knights_Hospitaller,187549]]"
+significant_event: "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384]]"
+different_from: "[[_Standards/WikiData/WD~Kerak_Castle,844694]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~concentric_castle,1064905]]"
+  - "[[_Standards/WikiData/WD~crusader_castle,92275707]]"
+described_by_source: "[[_Standards/WikiData/WD~Sketchfab,7534755]]"
+located_in_the_administrative_territorial_entity:
+  - "[[_Standards/WikiData/WD~Al_Husn,15178835]]"
+  - "[[_Standards/WikiData/WD~Syria,858]]"
+part_of: "[[_Standards/WikiData/WD~Crac_des_Chevaliers_and_Qal_at_Salah_El_Din,15604681]]"
+World_Heritage_criteria:
+  - "[[_Standards/WikiData/WD~(ii),23038976]]"
+  - "[[_Standards/WikiData/WD~(vi),23038980]]"
+heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
+coordinate_location: Point(36.294722222 34.756944444)
+inception: 1031-01-01T00:00:00Z
+country: "[[_Standards/WikiData/WD~Syria,858]]"
+made_from_material: "[[_Standards/WikiData/WD~limestone,23757]]"
+area:
+  - 2.38
+  - 37.69
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Krak%20des%20Chevaliers%2001.jpg
+Commons_gallery: Krak des Chevaliers
+Commons_category: Krak des Chevaliers
+image_of_design_plans: http://commons.wikimedia.org/wiki/Special:FilePath/Krak%20des%20chevaliers%20-%20plan.jpg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Krak%20des%20Chevaliers%20banner.jpg
+native_label: Krak des Chevaliers
+---
+
+# [[Krak_des_Chevaliers]] 
+
+#is_/same_as :: [[WD~Krak_des_Chevaliers,177549]] 
+
+## #has_/text_of_/abstract 
+
+> Krak des Chevaliers (French: [kʁak de ʃ(ə)valje]; Arabic: قلعة الحصن, romanized: Qalʿat al-Ḥiṣn, 
+> Arabic: [ˈqalʕat alˈħisˤn]; Old French: Crac des Chevaliers or Crac de l'Ospital, 
+> lit. 'karak [fortress] of the hospital'; from Classical Syriac: ܟܪܟܐ, romanized: karəḵā, lit. 'walled city') 
+> is a medieval castle in Syria and one of the most important preserved medieval castles in the world. 
+> 
+> The site was first inhabited in the 11th century by Kurdish troops 
+> garrisoned there by the Mirdasids. 
+> In 1142 it was given by Raymond II, Count of Tripoli, to the order of the Knights Hospitaller. 
+> It remained occupied by them until it was reconquered by the Muslims in 1271.
+>
+> The Hospitallers began rebuilding the castle in the 1140s 
+> and were finished by 1170 when an earthquake damaged the castle. 
+> 
+> The order controlled castles along the border of the County of Tripoli, 
+> a state founded after the First Crusade. 
+> 
+> Krak des Chevaliers was among the most important 
+> and acted as a center of administration as well as a military base. 
+> 
+> After a second phase of building was undertaken in the 13th century, 
+> Krak des Chevaliers became a concentric castle. 
+> 
+> This phase created the outer wall and gave the castle its current appearance. The first half of the century has been described as Krak des Chevaliers' "golden age". At its peak, Krak des Chevaliers housed a garrison of around 2,000. Such a large garrison allowed the Hospitallers to exact tribute from a wide area. From the 1250s the fortunes of the Knights Hospitaller took a turn for the worse and in 1271 the Mamluk Sultanate captured Krak des Chevaliers after a siege lasting 36 days, supposedly by way of a forged letter purportedly from the Hospitallers' Grand Master that caused the knights to surrender.
+>
+> Renewed interest in Crusader castles in the 19th century led to the investigation of Krak des Chevaliers, and architectural plans were drawn up. In the late 19th or early 20th century a settlement had been created within the castle, causing damage to its fabric. The 500 inhabitants were moved in 1933 and the castle was given over to the French Alawite State, which carried out a program of clearing and restoration. When Syria declared independence in 1946, it assumed control.
+>
+> Today, the village of al-Husn exists around the castle and has a population of nearly 9,000. Krak des Chevaliers is approximately 40 kilometres (25 mi) west of the city of Homs, close to the border of Lebanon, and is administratively part of the Homs Governorate. Since 2006, the castles of Krak des Chevaliers and Qal'at Salah El-Din have been recognised by UNESCO as World Heritage Sites. It was partially damaged in the Syrian civil war from shelling and recaptured by the Syrian government forces in 2014. Since then, reconstruction and conservation work on the site had begun. Reports by UNESCO and the Syrian government on the state of the site are produced yearly.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Krak%20des%20Chevaliers) 
+
