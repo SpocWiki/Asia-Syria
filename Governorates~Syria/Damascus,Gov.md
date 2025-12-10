@@ -27,7 +27,7 @@ expiryDate:
 has_id_wikidata: Q3766
 ---
 
-# [[Damascus]]
+# [[Damascus,Gov]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Damascus,3766|WD~Damascus,3766]] 
 
@@ -38,8 +38,12 @@ id: Damascus
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Damascus/
-markerFolder: ./Damascus/
+geojsonFolder: ./Damascus,Gov/
+markerFolder: ./Damascus,Gov/
+coordinates: [[Damascus,Gov]] 
+markerFile: [[Damascus,Gov]] 
+zoomFeatures: true
+defaultZoom: 11 
 ```
 
 ## #has_/text_of_/abstract
