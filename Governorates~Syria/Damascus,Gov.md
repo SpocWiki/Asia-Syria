@@ -79,17 +79,17 @@ defaultZoom: 11
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Damascus](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov|Damascus,Gov]] 
 
-### #is_/same_as :: [Damascus.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov.public|Damascus,Gov.public]] 
 
-### #is_/same_as :: [Damascus.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov.internal|Damascus,Gov.internal]] 
 
-### #is_/same_as :: [Damascus.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov.protect|Damascus,Gov.protect]] 
 
-### #is_/same_as :: [Damascus.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov.private|Damascus,Gov.private]] 
 
-### #is_/same_as :: [Damascus.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov.personal|Damascus,Gov.personal]] 
 
-### #is_/same_as :: [Damascus.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov.secret|Damascus,Gov.secret]] 
 

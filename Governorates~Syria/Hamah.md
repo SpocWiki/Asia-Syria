@@ -40,17 +40,17 @@ markerFolder: ./Hamah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hamah](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah|Hamah]] 
 
-### #is_/same_as :: [Hamah.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah.public|Hamah.public]] 
 
-### #is_/same_as :: [Hamah.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah.internal|Hamah.internal]] 
 
-### #is_/same_as :: [Hamah.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah.protect|Hamah.protect]] 
 
-### #is_/same_as :: [Hamah.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah.private|Hamah.private]] 
 
-### #is_/same_as :: [Hamah.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah.personal|Hamah.personal]] 
 
-### #is_/same_as :: [Hamah.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Hamah.secret|Hamah.secret]] 
 

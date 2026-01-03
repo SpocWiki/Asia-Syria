@@ -32,3 +32,20 @@ Dewey_Decimal_Classification: "956.91"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Syria) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Syria/History_of_Syria|History_of_Syria]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Syria/History_of_Syria.public|History_of_Syria.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Syria/History_of_Syria.internal|History_of_Syria.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Syria/History_of_Syria.protect|History_of_Syria.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Syria/History_of_Syria.private|History_of_Syria.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Syria/History_of_Syria.personal|History_of_Syria.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Syria/History_of_Syria.secret|History_of_Syria.secret]] 
+

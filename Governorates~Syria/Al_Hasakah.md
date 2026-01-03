@@ -40,17 +40,17 @@ markerFolder: ./Hasaka_(Al_Haksa)/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Hasakah](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Al_Hasakah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Al_Hasakah|Al_Hasakah]] 
 
-### #is_/same_as :: [Al_Hasakah.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Al_Hasakah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Al_Hasakah.public|Al_Hasakah.public]] 
 
-### #is_/same_as :: [Al_Hasakah.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Al_Hasakah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Al_Hasakah.internal|Al_Hasakah.internal]] 
 
-### #is_/same_as :: [Al_Hasakah.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Al_Hasakah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Al_Hasakah.protect|Al_Hasakah.protect]] 
 
-### #is_/same_as :: [Al_Hasakah.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Al_Hasakah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Al_Hasakah.private|Al_Hasakah.private]] 
 
-### #is_/same_as :: [Al_Hasakah.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Al_Hasakah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Al_Hasakah.personal|Al_Hasakah.personal]] 
 
-### #is_/same_as :: [Al_Hasakah.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Al_Hasakah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Al_Hasakah.secret|Al_Hasakah.secret]] 
 

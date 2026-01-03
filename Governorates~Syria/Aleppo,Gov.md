@@ -44,17 +44,17 @@ defaultZoom: 11
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aleppo](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo,Gov|Aleppo,Gov]] 
 
-### #is_/same_as :: [Aleppo.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo,Gov.public|Aleppo,Gov.public]] 
 
-### #is_/same_as :: [Aleppo.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo,Gov.internal|Aleppo,Gov.internal]] 
 
-### #is_/same_as :: [Aleppo.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo,Gov.protect|Aleppo,Gov.protect]] 
 
-### #is_/same_as :: [Aleppo.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo,Gov.private|Aleppo,Gov.private]] 
 
-### #is_/same_as :: [Aleppo.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo,Gov.personal|Aleppo,Gov.personal]] 
 
-### #is_/same_as :: [Aleppo.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Aleppo,Gov.secret|Aleppo,Gov.secret]] 
 

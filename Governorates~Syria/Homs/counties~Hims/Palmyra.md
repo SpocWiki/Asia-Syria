@@ -82,3 +82,20 @@ Krugosvet_article_archived_: istoriya/PALMIRA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Palmyra) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs/counties~Hims/Palmyra|Palmyra]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs/counties~Hims/Palmyra.public|Palmyra.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs/counties~Hims/Palmyra.internal|Palmyra.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs/counties~Hims/Palmyra.protect|Palmyra.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs/counties~Hims/Palmyra.private|Palmyra.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs/counties~Hims/Palmyra.personal|Palmyra.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs/counties~Hims/Palmyra.secret|Palmyra.secret]] 
+

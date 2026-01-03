@@ -60,3 +60,20 @@ inception: 0706-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Umayyad%20Mosque) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov/counties~Damascus/Damascus,County/Damascus,City/Umayyad_Mosque|Umayyad_Mosque]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov/counties~Damascus/Damascus,County/Damascus,City/Umayyad_Mosque.public|Umayyad_Mosque.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov/counties~Damascus/Damascus,County/Damascus,City/Umayyad_Mosque.internal|Umayyad_Mosque.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov/counties~Damascus/Damascus,County/Damascus,City/Umayyad_Mosque.protect|Umayyad_Mosque.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov/counties~Damascus/Damascus,County/Damascus,City/Umayyad_Mosque.private|Umayyad_Mosque.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov/counties~Damascus/Damascus,County/Damascus,City/Umayyad_Mosque.personal|Umayyad_Mosque.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov/counties~Damascus/Damascus,County/Damascus,City/Umayyad_Mosque.secret|Umayyad_Mosque.secret]] 
+

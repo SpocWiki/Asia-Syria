@@ -50,3 +50,20 @@ dissolved_abolished_or_demolished_date: -1190-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ugarit) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Lattakia/counties~Lattakia/Latakia/Ugarit|Ugarit]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Lattakia/counties~Lattakia/Latakia/Ugarit.public|Ugarit.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Lattakia/counties~Lattakia/Latakia/Ugarit.internal|Ugarit.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Lattakia/counties~Lattakia/Latakia/Ugarit.protect|Ugarit.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Lattakia/counties~Lattakia/Latakia/Ugarit.private|Ugarit.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Lattakia/counties~Lattakia/Latakia/Ugarit.personal|Ugarit.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Lattakia/counties~Lattakia/Latakia/Ugarit.secret|Ugarit.secret]] 
+

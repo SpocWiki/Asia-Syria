@@ -40,17 +40,17 @@ markerFolder: ./Idlib/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Idlib](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib|Idlib]] 
 
-### #is_/same_as :: [Idlib.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.public|Idlib.public]] 
 
-### #is_/same_as :: [Idlib.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.internal|Idlib.internal]] 
 
-### #is_/same_as :: [Idlib.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.protect|Idlib.protect]] 
 
-### #is_/same_as :: [Idlib.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.private|Idlib.private]] 
 
-### #is_/same_as :: [Idlib.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.personal|Idlib.personal]] 
 
-### #is_/same_as :: [Idlib.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Idlib.secret|Idlib.secret]] 
 

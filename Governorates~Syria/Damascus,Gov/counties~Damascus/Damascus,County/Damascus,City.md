@@ -43,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Damascus,City](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus/City/Damascus,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov/counties~Damascus/Damascus,County/Damascus,City|Damascus,City]] 
 
-### #is_/same_as :: [Damascus,City.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus/City/Damascus,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov/counties~Damascus/Damascus,County/Damascus,City.public|Damascus,City.public]] 
 
-### #is_/same_as :: [Damascus,City.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus/City/Damascus,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov/counties~Damascus/Damascus,County/Damascus,City.internal|Damascus,City.internal]] 
 
-### #is_/same_as :: [Damascus,City.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus/City/Damascus,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov/counties~Damascus/Damascus,County/Damascus,City.protect|Damascus,City.protect]] 
 
-### #is_/same_as :: [Damascus,City.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus/City/Damascus,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov/counties~Damascus/Damascus,County/Damascus,City.private|Damascus,City.private]] 
 
-### #is_/same_as :: [Damascus,City.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus/City/Damascus,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov/counties~Damascus/Damascus,County/Damascus,City.personal|Damascus,City.personal]] 
 
-### #is_/same_as :: [Damascus,City.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus/City/Damascus,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Damascus,Gov/counties~Damascus/Damascus,County/Damascus,City.secret|Damascus,City.secret]] 
 

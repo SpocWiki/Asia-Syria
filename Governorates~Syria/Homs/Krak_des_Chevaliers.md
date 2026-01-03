@@ -71,3 +71,20 @@ native_label: Krak des Chevaliers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Krak%20des%20Chevaliers) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs/Krak_des_Chevaliers|Krak_des_Chevaliers]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs/Krak_des_Chevaliers.public|Krak_des_Chevaliers.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs/Krak_des_Chevaliers.internal|Krak_des_Chevaliers.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs/Krak_des_Chevaliers.protect|Krak_des_Chevaliers.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs/Krak_des_Chevaliers.private|Krak_des_Chevaliers.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs/Krak_des_Chevaliers.personal|Krak_des_Chevaliers.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Homs/Krak_des_Chevaliers.secret|Krak_des_Chevaliers.secret]] 
+

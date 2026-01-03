@@ -40,17 +40,17 @@ markerFolder: ./Rif_Dimashq/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rif_Dimashq](/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Rif_Dimashq.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Rif_Dimashq|Rif_Dimashq]] 
 
-### #is_/same_as :: [Rif_Dimashq.public](/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Rif_Dimashq.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Rif_Dimashq.public|Rif_Dimashq.public]] 
 
-### #is_/same_as :: [Rif_Dimashq.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Rif_Dimashq.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Rif_Dimashq.internal|Rif_Dimashq.internal]] 
 
-### #is_/same_as :: [Rif_Dimashq.protect](/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Rif_Dimashq.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Rif_Dimashq.protect|Rif_Dimashq.protect]] 
 
-### #is_/same_as :: [Rif_Dimashq.private](/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Rif_Dimashq.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Rif_Dimashq.private|Rif_Dimashq.private]] 
 
-### #is_/same_as :: [Rif_Dimashq.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Rif_Dimashq.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Rif_Dimashq.personal|Rif_Dimashq.personal]] 
 
-### #is_/same_as :: [Rif_Dimashq.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Rif_Dimashq.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Syria/Governorates~Syria/Rif_Dimashq.secret|Rif_Dimashq.secret]] 
 
