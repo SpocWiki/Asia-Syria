@@ -3,27 +3,27 @@ aliases:
   - Krak des Chevaliers
 has_id_wikidata: Q177549
 main_building_contractor:
-  - "[[_Standards/WikiData/WD~Knights_Hospitaller,187549]]"
-  - "[[_Standards/WikiData/WD~Shibl_al_Dawla_Nasr,7496060]]"
-owned_by: "[[_Standards/WikiData/WD~Knights_Hospitaller,187549]]"
-significant_event: "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384]]"
-different_from: "[[_Standards/WikiData/WD~Kerak_Castle,844694]]"
+  - "[[_Standards/WikiData/WD~Knights_Hospitaller,187549|WD~Knights_Hospitaller,187549]]"
+  - "[[_Standards/WikiData/WD~Shibl_al_Dawla_Nasr,7496060|WD~Shibl_al_Dawla_Nasr,7496060]]"
+owned_by: "[[_Standards/WikiData/WD~Knights_Hospitaller,187549|WD~Knights_Hospitaller,187549]]"
+significant_event: "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384|WD~list_of_World_Heritage_in_Danger,222384]]"
+different_from: "[[_Standards/WikiData/WD~Kerak_Castle,844694|WD~Kerak_Castle,844694]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~concentric_castle,1064905]]"
-  - "[[_Standards/WikiData/WD~crusader_castle,92275707]]"
-described_by_source: "[[_Standards/WikiData/WD~Sketchfab,7534755]]"
+  - "[[_Standards/WikiData/WD~concentric_castle,1064905|WD~concentric_castle,1064905]]"
+  - "[[_Standards/WikiData/WD~crusader_castle,92275707|WD~crusader_castle,92275707]]"
+described_by_source: "[[_Standards/WikiData/WD~Sketchfab,7534755|WD~Sketchfab,7534755]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Al_Husn,15178835]]"
-  - "[[_Standards/WikiData/WD~Syria,858]]"
-part_of: "[[_Standards/WikiData/WD~Crac_des_Chevaliers_and_Qal_at_Salah_El_Din,15604681]]"
+  - "[[_Standards/WikiData/WD~Al_Husn,15178835|WD~Al_Husn,15178835]]"
+  - "[[_Standards/WikiData/WD~Syria,858|WD~Syria,858]]"
+part_of: "[[_Standards/WikiData/WD~Crac_des_Chevaliers_and_Qal_at_Salah_El_Din,15604681|WD~Crac_des_Chevaliers_and_Qal_at_Salah_El_Din,15604681]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(ii),23038976]]"
-  - "[[_Standards/WikiData/WD~(vi),23038980]]"
-heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
+  - "[[_Standards/WikiData/WD~(ii),23038976|WD~(ii),23038976]]"
+  - "[[_Standards/WikiData/WD~(vi),23038980|WD~(vi),23038980]]"
+heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623|WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
 coordinate_location: Point(36.294722222 34.756944444)
 inception: 1031-01-01T00:00:00Z
-country: "[[_Standards/WikiData/WD~Syria,858]]"
-made_from_material: "[[_Standards/WikiData/WD~limestone,23757]]"
+country: "[[_Standards/WikiData/WD~Syria,858|WD~Syria,858]]"
+made_from_material: "[[_Standards/WikiData/WD~limestone,23757|WD~limestone,23757]]"
 area:
   - 2.38
   - 37.69

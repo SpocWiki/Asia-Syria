@@ -2,52 +2,52 @@
 aliases:
 has_id_wikidata: Q41183
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Gaziantep,93338]]"
-  - "[[_Standards/WikiData/WD~Brest,140147]]"
-  - "[[_Standards/WikiData/WD~Osmangazi,1023140]]"
-  - "[[_Standards/WikiData/WD~Lyon,456]]"
+  - "[[_Standards/WikiData/WD~Gaziantep,93338|WD~Gaziantep,93338]]"
+  - "[[_Standards/WikiData/WD~Brest,140147|WD~Brest,140147]]"
+  - "[[_Standards/WikiData/WD~Osmangazi,1023140|WD~Osmangazi,1023140]]"
+  - "[[_Standards/WikiData/WD~Lyon,456|WD~Lyon,456]]"
 capital_of:
-  - "[[_Standards/WikiData/WD~State_of_Aleppo,146872]]"
-  - "[[_Standards/WikiData/WD~Zengid_dynasty,189545]]"
-  - "[[_Standards/WikiData/WD~Aleppo_Governorate,214064]]"
-  - "[[_Standards/WikiData/WD~Yamhad,617218]]"
-  - "[[_Standards/WikiData/WD~Hamdanid_dynasty,837187]]"
-  - "[[_Standards/WikiData/WD~Aleppo_vilayet,1493892]]"
-  - "[[_Standards/WikiData/WD~Aleppo_eyalet,3043596]]"
-  - "[[_Standards/WikiData/WD~Jund_Qinnasrin,6311922]]"
-  - "[[_Standards/WikiData/WD~Syrian_Federation,12183911]]"
+  - "[[_Standards/WikiData/WD~State_of_Aleppo,146872|WD~State_of_Aleppo,146872]]"
+  - "[[_Standards/WikiData/WD~Zengid_dynasty,189545|WD~Zengid_dynasty,189545]]"
+  - "[[_Standards/WikiData/WD~Aleppo_Governorate,214064|WD~Aleppo_Governorate,214064]]"
+  - "[[_Standards/WikiData/WD~Yamhad,617218|WD~Yamhad,617218]]"
+  - "[[_Standards/WikiData/WD~Hamdanid_dynasty,837187|WD~Hamdanid_dynasty,837187]]"
+  - "[[_Standards/WikiData/WD~Aleppo_vilayet,1493892|WD~Aleppo_vilayet,1493892]]"
+  - "[[_Standards/WikiData/WD~Aleppo_eyalet,3043596|WD~Aleppo_eyalet,3043596]]"
+  - "[[_Standards/WikiData/WD~Jund_Qinnasrin,6311922|WD~Jund_Qinnasrin,6311922]]"
+  - "[[_Standards/WikiData/WD~Syrian_Federation,12183911|WD~Syrian_Federation,12183911]]"
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Eastern_European_Time,190252]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
-different_from: "[[_Standards/WikiData/WD~Aleppo,358301]]"
+  - "[[_Standards/WikiData/WD~Eastern_European_Time,190252|WD~Eastern_European_Time,190252]]"
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]"
+  - "[[_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]"
+different_from: "[[_Standards/WikiData/WD~Aleppo,358301|WD~Aleppo,358301]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-member_of: "[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240|WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+member_of: "[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958|WD~Organization_of_World_Heritage_Cities,734958]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~populated_place_in_Syria,16127605]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Aleppo,2094746]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Mount_Simeon_District,4120574]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Aleppo,6675481]]"
-part_of: "[[_Standards/WikiData/WD~Northwestern_Syria,14210255]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Aleppo,100863825]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~populated_place_in_Syria,16127605|WD~populated_place_in_Syria,16127605]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Aleppo,2094746|WD~history_of_Aleppo,2094746]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Mount_Simeon_District,4120574|WD~Mount_Simeon_District,4120574]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Aleppo,6675481|WD~Template_Aleppo,6675481]]"
+part_of: "[[_Standards/WikiData/WD~Northwestern_Syria,14210255|WD~Northwestern_Syria,14210255]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Aleppo,100863825|WD~economy_of_Aleppo,100863825]]"
 time_of_earliest_written_record: -2499-01-01T00:00:00Z
-country: "[[_Standards/WikiData/WD~Syria,858]]"
-official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
+country: "[[_Standards/WikiData/WD~Syria,858|WD~Syria,858]]"
+official_language: "[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]"
 area: 190
-language_used: "[[_Standards/WikiData/WD~Kurmanji,36163]]"
+language_used: "[[_Standards/WikiData/WD~Kurmanji,36163|WD~Kurmanji,36163]]"
 elevation_above_sea_level: 379
 OmegaWiki_Defined_Meaning: "1217709"
 U_S_National_Archives_Identifier: "10044393"
@@ -77,7 +77,7 @@ UN_LOCODE: SYALP
 
 # [[Aleppo,City]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Aleppo,41183]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Aleppo,41183|WD~Aleppo,41183]] 
 
 ## #has_/text_of_/abstract 
 

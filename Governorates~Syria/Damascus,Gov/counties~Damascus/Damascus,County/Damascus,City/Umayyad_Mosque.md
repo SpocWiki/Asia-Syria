@@ -9,24 +9,24 @@ aliases:
 has_id_wikidata: Q183562
 location: [ 33.511388888, 36.306666666]
 coordinate_location: Point(36.306666666 33.511388888)
-founded_by: "[[_Standards/WikiData/WD~Al_Walid_I,284003]]"
-architectural_style: "[[_Standards/WikiData/WD~Umayyad_architecture,2147720]]"
+founded_by: "[[_Standards/WikiData/WD~Al_Walid_I,284003|WD~Al_Walid_I,284003]]"
+architectural_style: "[[_Standards/WikiData/WD~Umayyad_architecture,2147720|WD~Umayyad_architecture,2147720]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~architectural_landmark,2319498]]"
-  - "[[_Standards/WikiData/WD~educational_institution,2385804]]"
-  - "[[_Standards/WikiData/WD~mosque,32815]]"
-part_of: "[[_Standards/WikiData/WD~Ancient_City_of_Damascus,3678596]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-country: "[[_Standards/WikiData/WD~Syria,858]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Damascus,3766]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+  - "[[_Standards/WikiData/WD~architectural_landmark,2319498|WD~architectural_landmark,2319498]]"
+  - "[[_Standards/WikiData/WD~educational_institution,2385804|WD~educational_institution,2385804]]"
+  - "[[_Standards/WikiData/WD~mosque,32815|WD~mosque,32815]]"
+part_of: "[[_Standards/WikiData/WD~Ancient_City_of_Damascus,3678596|WD~Ancient_City_of_Damascus,3678596]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]"
+country: "[[_Standards/WikiData/WD~Syria,858|WD~Syria,858]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Damascus,3766|WD~Damascus,3766]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
 made_from_material:
-  - "[[_Standards/WikiData/WD~stone,22731]]"
-  - "[[_Standards/WikiData/WD~marble,40861]]"
-has_use: "[[_Standards/WikiData/WD~mosque,32815]]"
+  - "[[_Standards/WikiData/WD~stone,22731|WD~stone,22731]]"
+  - "[[_Standards/WikiData/WD~marble,40861|WD~marble,40861]]"
+has_use: "[[_Standards/WikiData/WD~mosque,32815|WD~mosque,32815]]"
 width: 50
 length: 125
-dedicated_to: "[[_Standards/WikiData/WD~John_the_Baptist,40662]]"
+dedicated_to: "[[_Standards/WikiData/WD~John_the_Baptist,40662|WD~John_the_Baptist,40662]]"
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Umayyad%20Mosque%2C%20Damascus.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Isometric%20drawing%20of%20Umayyad%20Mosque.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ommayyad%20masjed.jpg

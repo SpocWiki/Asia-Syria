@@ -127,7 +127,7 @@ markerFolder: ./
 [Area-Land::183780] 
 Continent :: [[Asia]]  
 [VehicleCode::SYR] 
-Capital :: [[Syria/Counties/Damascus/City/Damascus=Damaskus]]  
+Capital :: [[Syria/Counties/Damascus/City/Damascus=Damaskus|Damascus=Damaskus]]  
 [Alcohol-l::1.4] 
 [Language-Id::472] 
 [geo-lon::36.625] 

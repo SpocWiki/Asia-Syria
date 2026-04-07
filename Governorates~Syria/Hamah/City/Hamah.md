@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::35.17] 
 [name::Hamah] 
 State ::  
-Country :: [[../../../../Syria]]  
+Country :: [[../../../../Syria|Syria]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

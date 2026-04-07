@@ -22,7 +22,7 @@ confidential: public
 [geo-lat::33.5] 
 [name::Damascus,City] 
 State ::  
-Country :: [[../../../../../Syria]]  
+Country :: [[../../../../../Syria|Syria]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
