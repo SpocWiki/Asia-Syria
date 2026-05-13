@@ -74,7 +74,7 @@ defaultZoom: 11
 >
 > Today, it is the seat of the central government of Syria. As of September 2019, eight years into the Syrian civil war, Damascus was named the least livable city out of 140 global cities in the Global Liveability Ranking. As of June 2023, it was the least livable out of 173 global cities in the same Global Liveability Ranking. In 2017, two new development projects have been launched in Damascus to build new residential districts, Marota City and Basillia City to symbolize post-war reconstruction.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Damascus)
+> [Wikipedia](https://en.wikipedia.org/wiki/Damascus) 
 
 
 ## Confidential Links & Embeds: 

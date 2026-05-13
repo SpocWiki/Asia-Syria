@@ -38,7 +38,7 @@ markerFolder: ./Damascus,City/
 zoomFeatures: true
 defaultZoom: 8 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

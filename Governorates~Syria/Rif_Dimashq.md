@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Rif_Dimashq/
 markerFolder: ./Rif_Dimashq/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

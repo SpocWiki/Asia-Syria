@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ar_Raqqah/
 markerFolder: ./Ar_Raqqah/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
