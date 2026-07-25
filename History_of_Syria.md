@@ -2,17 +2,17 @@
 aliases:
 has_id_wikidata: Q943676
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_History_of_Syria,13427331|WD~Template_History_of_Syria,13427331]]"
-  - "[[_Standards/WikiData/WD~Q44372831,44372831|WD~Q44372831,44372831]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Syria,858|WD~Syria,858]]"
-country: "[[_Standards/WikiData/WD~Syria,858|WD~Syria,858]]"
+  - "[[/_Standards/WikiData/WD~Template_History_of_Syria,13427331|WD~Template_History_of_Syria,13427331]]"
+  - "[[/_Standards/WikiData/WD~Q44372831,44372831|WD~Q44372831,44372831]]"
+instance_of: "[[/_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[/_Standards/WikiData/WD~Syria,858|WD~Syria,858]]"
+country: "[[/_Standards/WikiData/WD~Syria,858|WD~Syria,858]]"
 Commons_category: History of Syria
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20History%20of%20Syria.ogg
 Dewey_Decimal_Classification: "956.91"

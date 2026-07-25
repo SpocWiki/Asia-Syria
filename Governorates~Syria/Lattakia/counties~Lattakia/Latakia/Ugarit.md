@@ -4,19 +4,19 @@ aliases:
   - Tell Shamra
 has_id_wikidata: Q191369
 instance_of:
-  - "[[_Standards/WikiData/WD~city_state,133442|WD~city_state,133442]]"
-  - "[[_Standards/WikiData/WD~polity,1063239|WD~polity,1063239]]"
-  - "[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~tributary_state,3241965|WD~tributary_state,3241965]]"
-  - "[[_Standards/WikiData/WD~ancient_city,15661340|WD~ancient_city,15661340]]"
-  - "[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]"
-culture: "[[_Standards/WikiData/WD~Canaan,163329|WD~Canaan,163329]]"
+  - "[[/_Standards/WikiData/WD~city_state,133442|WD~city_state,133442]]"
+  - "[[/_Standards/WikiData/WD~polity,1063239|WD~polity,1063239]]"
+  - "[[/_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]"
+  - "[[/_Standards/WikiData/WD~tributary_state,3241965|WD~tributary_state,3241965]]"
+  - "[[/_Standards/WikiData/WD~ancient_city,15661340|WD~ancient_city,15661340]]"
+  - "[[/_Standards/WikiData/WD~culture,11042|WD~culture,11042]]"
+culture: "[[/_Standards/WikiData/WD~Canaan,163329|WD~Canaan,163329]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Latakia_Governorate,233236|WD~Latakia_Governorate,233236]]"
-  - "[[_Standards/WikiData/WD~Phoenicia,41642|WD~Phoenicia,41642]]"
+  - "[[/_Standards/WikiData/WD~Latakia_Governorate,233236|WD~Latakia_Governorate,233236]]"
+  - "[[/_Standards/WikiData/WD~Phoenicia,41642|WD~Phoenicia,41642]]"
 inception: -6000-01-01T00:00:00Z
 coordinate_location: Point(35.785556 35.601944)
-country: "[[_Standards/WikiData/WD~Syria,858|WD~Syria,858]]"
+country: "[[/_Standards/WikiData/WD~Syria,858|WD~Syria,858]]"
 Commons_category: Ugarit
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ugarit%20Corbel.jpg
 native_label: 𐎜𐎂𐎗𐎚
