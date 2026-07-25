@@ -29,7 +29,7 @@ dv_UNTERM_Chinese_Formal: 阿拉伯叙利亚共和国
 dv_UNTERM_French_Formal: la République arabe syrienne
 dv_UNTERM_Russian: Сирийская Арабская Республика
 dv_UNTERM_Russian_Formal: Сирийская Арабская Республика
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Syria]]'
 dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
@@ -54,7 +54,7 @@ dv_ISO2: SY
 dv_ISO3: SYR
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Syria,858|WD~Syria,858]]'
+  - '[[../../../../../WikiData/WD~Syria,858|WD~Syria,858]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~West/Syria|Syria]]'
   - '[[/_public/Earth/Continent/Asia/Asia~West/Syria.public|Syria.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~West/Syria.internal|Syria.internal]]'
@@ -370,17 +370,17 @@ dv_has_:
 dv_has_name_de: Syrien, Syrian Arab Republic
 dv_Area-Total: 185180
 dv_Area-Land: 183780
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: SYR
-dv_Capital: '[[Syria/Counties/Damascus/City/Damascus=Damaskus|Damascus=Damaskus]]'
+dv_Capital: '[[Counties/Damascus/City/Damascus=Damaskus|Damascus=Damaskus]]'
 dv_Alcohol-l: 1.4
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 36.625
 dv_has_place_latitude: 34.335
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Syria,858|WD~Syria,858]]'
+- '[[../../../../../WikiData/WD~Syria,858|WD~Syria,858]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~West/Syria|Syria]]'
 - '[[/_public/Earth/Continent/Asia/Asia~West/Syria.public|Syria.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~West/Syria.internal|Syria.internal]]'
@@ -714,7 +714,7 @@ currency: '[[/_Standards/WikiData/WD~Syrian_pound,240468|WD~Syrian_pound,240468]
 has_cabinet: '[[/_Standards/WikiData/WD~Council_of_Ministers_of_Syria,267276|WD~Council_of_Ministers_of_Syria,267276]]'
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~New_History_of_Yuan,1053256|WD~New_History_of_Yuan,1053256]]'
 - '[[/_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
@@ -922,7 +922,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Syria/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -940,8 +940,8 @@ defaultZoom: 6
 
 [has_name_en::Syria]
 has_name_de = `=this.dv_has_name_de`
-![[Syria/Coat_of_arms_of_Syria.svg|350]]  
-![[Syria/Flag_of_Syria.svg|350]]  
+![[Coat_of_arms_of_Syria.svg|350]]  
+![[Flag_of_Syria.svg|350]]  
 
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
@@ -959,7 +959,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ```leaflet
 id: Syria_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
